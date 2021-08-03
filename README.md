@@ -25,9 +25,11 @@ My name is Izaak Chukwuma and I'm a software Engineer
 <a href="https://github.com/izaakwalz/izaakwalz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaakwalz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/izaakwalz/izaakwalz">
+<!--- <a href="https://github.com/izaakwalz/izaakwalz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=izaakwalz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Izaakwalz's GitHub Stats" />
-</a>
+</a> --->
+
+[![Izaakwalz's github stats](https://github-readme-stats.vercel.app/api?username=izaakwalz&count_private=true&show_icons=true&theme=algolia)](https://github.com/murewaashiru/github-readme-stats)
 
 <a href="https://github.com/izaakwalz/tutor-online-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=tutor-online-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
