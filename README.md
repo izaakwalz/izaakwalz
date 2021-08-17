@@ -1,6 +1,6 @@
 ![Header](https://github.com/izaakwalz/izaakwalz/blob/main/izaakwalz.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Izaak Chukwuma and I'm a software Engineer 
 <!--- ### Hi there 👋 --->
