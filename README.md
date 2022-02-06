@@ -1,8 +1,8 @@
 <!-- ![Header](https://github.com/izaakwalz/izaakwalz/blob/main/izaakwalz.png "Header") -->
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Izaak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name is Izaak Chukwuma and I'm a Software Engineer 
+## I'm a Software Engineer 
 ---
 
 **🛠 &nbsp;Technologies & Stack**
@@ -34,8 +34,10 @@
 **Currently learning**
 
 <span>![HTML5](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)</span>&nbsp;
-<span>![HTML5](https://img.shields.io/badge/-go-333333?style=flat&logo=go)</span>&nbsp;
+<span>![HTML5](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)</span>&nbsp;
+<span>![HTML5](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)</span>&nbsp;
 <span>![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</span>
+<!-- <span>![HTML5](https://img.shields.io/badge/-go-333333?style=flat&logo=go)</span>&nbsp; -->
 
 ---
 
