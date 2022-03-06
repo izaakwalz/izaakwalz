@@ -46,18 +46,18 @@
 <!-- 
 [![Izaakwalz's github stats](https://github-readme-stats.vercel.app/api?username=izaakwalz&count_private=true&show_icons=true&theme=react)](https://github.com/murewaashiru/github-readme-stats) -->
 <a href="https://github.com/izaakwalz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaakwalz&count_private=true&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=23262F&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaakwalz&title_color=eceff4&text_color=d8dee9&bg_color=23262F&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaakwalz&count_private=true&show_icons=true&title_color=645394&icon_color=645394&text_color=d8dee9&bg_color=23262F&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaakwalz&icon_color=645394&title_color=645394&text_color=d8dee9&bg_color=23262F&layout=compact" />
 </a>
 
 ## My Top Projects
 
 <a href="https://github.com/izaakwalz/tutor-online-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=tutor-online-app&count_private=true&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=23262F" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=tutor-online-app&count_private=true&show_icons=true&icon_color=5f4b8b&title_color=645394&text_color=d8dee9&bg_color=23262F" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/izaakwalz/tutor-online-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=tutor-online-api&count_private=true&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=23262F" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=tutor-online-api&count_private=true&show_icons=true&icon_color=5f4b8b&title_color=645394&text_color=d8dee9&bg_color=23262F" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
@@ -65,11 +65,11 @@
 ---
 
 <a href="https://github.com/izaakwalz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=bookclubz&count_private=true&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=23262F" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=bookclubz&count_private=true&show_icons=true&icon_color=5f4b8b&title_color=645394&text_color=d8dee9&bg_color=23262F" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/izaakwalz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=HNGI8xI4G-TASKS&count_private=true&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=23262F" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=izaakwalz&repo=HNGI8xI4G-TASKS&count_private=true&show_icons=true&icon_color=5f4b8b&title_color=645394&text_color=d8dee9&bg_color=23262F" />
 </a>
 
 <br/>
@@ -79,7 +79,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/izaakwalz/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-izaakwalz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/izaakwalz/"><img alt="twitter" src="https://img.shields.io/badge/Twitter-izaakwalz-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:chukwumaizaak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chukwumaizaak@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:chukwumaizaak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chukwumaizaak@gmail.com-645394?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
