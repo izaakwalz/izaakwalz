@@ -8,4 +8,4 @@
 
 <p>🌱 I’m currently learning and Building on the web3 </p>
 
-![Profile views](https://gpvc.arturio.dev/izaakwalz)
+<!-- ![Profile views](https://gpvc.arturio.dev/izaakwalz) -->
