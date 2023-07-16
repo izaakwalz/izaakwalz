@@ -1,10 +1,3 @@
- <a href="https://twitter.com/izaakwalz" rel='noreferrer' target='_blank'>
-  <img align="right" alt="Izaak | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/izaakwalz/" rel='noreferrer' target='_blank'>
-  <img align="right" alt="Izaak | LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ## Hi, I'm Izaak 👋
 
 ## I'm a Frontend Developer Integrating Smart Contracts and RestFul APIs...
